@@ -10,6 +10,6 @@
 ### Activity Level Analysis
 
 
-## Cost-Loading Earned Duration Curves
+## Cost-Loaded Earned Duration Curves
 Using Schedule of Values (SOV) in CSI level to cost load the Earned Duration Curves
 
