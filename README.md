@@ -1,6 +1,10 @@
 # project-performance-management
 
 ## Earned Duration Methodology
+### Overview
+[Link to a paper about Earned Duration Methodology](http://www.sciencedirect.com/science/article/pii/S0263786313001609)
+
+
 ### Project Level Analysis
 
 
